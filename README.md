@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **BradNJONTU/BradNJONTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,35 +51,6 @@ Passionate about developing robust and scalable systems. I specialize in Java wi
 
 ---
 
-##  Experience Highlights
-
-### AI Engineer — LAO Sarl (Oct 2024 – Present)
-- Designed and deployed NLP, CV, and recommendation ML models with up to **92% accuracy**
-- Deployed scalable AI APIs with FastAPI & Spring Boot
-- Optimized training time by **30%** and integrated ML solutions into production systems
-
-### Java Developer — LAO Sarl (Jan 2024 – Dec 2024)
-- Built scalable backend services improving performance by **25%**
-- Enhanced learner engagement by **30%** through AI-driven recommendations
-- Delivered features **15% faster** via cross-functional collaboration
-
-### DevOps & Backend Leadership (2014–2024)
-- Built microservices with Java, Spring Boot, PostgreSQL; reduced bugs by **35%**
-- Automated CI/CD pipelines; sped deployments by **40%**
-- Mentored teams, enforced code quality and standards
-
----
-
-##  Featured Projects
-
-- **AI Chatbot (Gemini API)** — Intelligent conversational support  
-- **EdTech Learning Platform** — Personalized education recommendations  
-- **GrabFood Promo System** — Enhanced UX, higher promo uptake  
-- **Bank Referral System** — Boosted user acquisition by **30%**  
-- **Nat Nat Cashew Kingdom** — **923%** increase in profile visits  
-- **Social Education Initiative** — Community-driven programs with social impact
-
----
 
 ##  Get in Touch  
 - 📧 harolbradnjontu@gmail.com  
