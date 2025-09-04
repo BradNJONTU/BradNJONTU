@@ -60,5 +60,5 @@ Passionate about developing robust and scalable systems. I specialize in Java wi
 ---
 
 ###  GitHub Stats  
-![Brad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=brad-njontu&show_icons=true&theme=radical)
+![Brad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=BradNJONTU&show_icons=true&theme=radical)
 
