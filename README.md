@@ -58,10 +58,10 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats  
 
 ![Brad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=BradNJONTU&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BradNJONTU&layout=compact&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BradNJONTU&theme=radical&hide_border=false)
 
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BradNJONTU&layout=compact&theme=radical)
 ![Java](https://img.shields.io/badge/Code-Java-blue?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-brightgreen?logo=springboot)
 ![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?logo=docker&logoColor=white)
