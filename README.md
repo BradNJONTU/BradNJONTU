@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="animation_500_kxa883sd.gif" width="300"/>
+  <img src="animation_500_kxa883sd.gif" width="500"/>
 </p>
 
 <!--
