@@ -38,11 +38,6 @@ Here are some ideas to get you started:
 
 ---
 
-##  About Me  
-Passionate about developing robust and scalable systems. I specialize in Java with Spring Boot, clean architecture, and building reliable APIs. I’m curious about AI and automation and enjoy creating solutions that deliver real value.
-
----
-
 ##  Skills & Tech Stack
 
 | Category       | Tools & Technologies                                  |
@@ -54,7 +49,6 @@ Passionate about developing robust and scalable systems. I specialize in Java wi
 | **Monitoring & Testing**   | Grafana, SonarQube, Microservices, TDD     |
 
 ---
-
 
 ##  Get in Touch  
 - 📧 harolbradnjontu@gmail.com  
@@ -68,5 +62,10 @@ Passionate about developing robust and scalable systems. I specialize in Java wi
 ![Brad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=BradNJONTU&show_icons=true&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BradNJONTU&layout=compact&theme=radical)
+
+![Java](https://img.shields.io/badge/Code-Java-blue?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-brightgreen?logo=springboot)
+![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?logo=docker&logoColor=white)
+
 
 
