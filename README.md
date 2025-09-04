@@ -62,8 +62,6 @@ Here are some ideas to get you started:
 ![Brad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=BradNJONTU&show_icons=true&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BradNJONTU&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=BradNJONTU&color=blue&style=flat-square)
-![trophy](https://github-profile-trophy.vercel.app/?username=BradNJONTU&theme=radical&margin-w=15&margin-h=15)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BradNJONTU&theme=radical&hide_border=false)
 
 
