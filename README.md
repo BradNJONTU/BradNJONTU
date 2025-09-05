@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ![Java](https://img.shields.io/badge/Code-Java-blue?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-brightgreen?logo=springboot)
-![Kubernetes](https://img.shields.io/badge/DevOps-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/DevOps-Kubernetes-2496ED?logo=docker&logoColor=white)
 
 
 
